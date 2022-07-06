@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there 👋🧙‍♂️
 
-<!--
-**Obivaniche/Obivaniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Это мой ✨ _special_ ✨ личный `README.md`, который посвящен мне.
 
-Here are some ideas to get you started:
+Несколько фактов для старта:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 В данный момент я работаю над учебным проектом Mesto (https://obivaniche.github.io/mesto/)
+- 👨‍🏫 Сейчас я изучаю React и JSX
+
+Мои ближайшие цели на сегодня:
+
+- 🕵️‍♂️ Закончить самостоятельный проект
+- 👨‍🚀 Начать изучать новые фреймворки
+- 🧟‍♂️ Перестать прокрастинировать больше положенного
+
+Мой стек на данный момент:
+
+- <img src="https://user-images.githubusercontent.com/89666734/177563212-5ef219f8-b2cb-424e-a6e5-ad441a962761.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177563511-87d37077-8880-47ca-802e-4dd630274ade.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177564826-f0df841d-32e5-4a6d-8f61-81b2a2371d2e.jpg" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177565051-45c4523e-77b9-48a2-9ba2-17b0f85c1fc1.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177565205-789ac4a1-7e25-4a67-9140-5c8edef9def7.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177565476-45c25902-3f65-4e64-b266-3586d294ad82.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177565623-d5e046bc-9ec5-430f-ab7a-0e5e9810e954.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177565810-ff0fda85-8c4f-47a3-9e64-e4f744425f5f.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177566056-f73aed0b-2b74-4efe-a1e2-a44096c357c4.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177566206-4e28c8da-d17b-4daa-8df2-7a109918b3e2.png" width="30" /> <img src="https://user-images.githubusercontent.com/89666734/177566490-9a5aea12-f736-4cb5-a6d4-99645fc8c244.png" width="30" />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obivaniche&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obivaniche&layout=compact)](https://github.com/Obivaniche/github-readme-stats)
